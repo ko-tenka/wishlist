@@ -11,6 +11,9 @@ import productImage9 from './img/IMG_9090.PNG'
 import productImage10 from './img/IMG_9093.PNG'
 import productImage11 from './img/IMG_9094.PNG'
 import productImage12 from './img/IMG_9095.PNG'
+import productImage13 from './img/IMG_9098.PNG'
+
+
 
 interface Product {
   id: number;
@@ -45,16 +48,16 @@ function List() {
     },
     {
       id: 4,
-      name: 'Пилинг для лица',
-      price: '7 000',
-      image: productImage4,
-      paymentLink: 'https://www.instagram.com/anastasi.cosmetolog?igsh=cDA3eTJ4N3ZnM3Ji'
+      name: 'Счастье для волос',
+      price: '6 000',
+      image: productImage13,
+      paymentLink: ''
     },
     {
         id: 5,
-        name: 'Поход к стоматологу',
-        price: '50 000',
-        image: productImage5,
+        name: 'Пилинг для лица',
+        price: '7 000',
+        image: productImage4,
         paymentLink: 'https://www.instagram.com/anastasi.cosmetolog?igsh=cDA3eTJ4N3ZnM3Ji'
       },
       {
@@ -91,10 +94,10 @@ function List() {
       },
       {
         id: 10,
-        name: 'Louis Vuitton',
-        price: '330 000',
-        image: productImage10,
-        paymentLink: 'https://collect.tsum.ru/item/ITEM372439'
+        name: 'Поход к стоматологу',
+        price: '50 000',
+        image: productImage5,
+        paymentLink: 'https://www.instagram.com/anastasi.cosmetolog?igsh=cDA3eTJ4N3ZnM3Ji'
 
       },
       {
@@ -111,6 +114,14 @@ function List() {
         price: '30 000',
         image: productImage12,
         paymentLink: ''
+
+      },
+      {
+        id: 13,
+        name: 'Louis Vuitton',
+        price: '330 000',
+        image: productImage10,
+        paymentLink: 'https://collect.tsum.ru/item/ITEM372439'
 
       },
     
