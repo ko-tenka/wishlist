@@ -51,7 +51,7 @@ function List() {
       name: 'Счастье для волос',
       price: '6 000',
       image: productImage13,
-      paymentLink: ''
+      paymentLink: 'https://www.instagram.com/dasha.zhair?igsh=djZmcGo3OXczNjFw'
     },
     {
         id: 5,
