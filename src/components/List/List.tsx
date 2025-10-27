@@ -122,7 +122,7 @@ function List() {
 
   return (
     <div className='shop-container'>
-      <h2 className='shop-title'>Витрина товаров</h2>
+      <h2 className='shop-title'>Wish List</h2>
       <div className='products-grid'>
         {products.map((product) => (
           <div 
