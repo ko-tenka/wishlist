@@ -1,5 +1,5 @@
 import './App.css'
-import Vid from './assets/vid8mb.mp4'
+import Vid from './assets/vid4small.mp4'
 import List from './components/List/List'
 
 function App() {
