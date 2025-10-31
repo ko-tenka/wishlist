@@ -1,5 +1,5 @@
 import './List.css'
-import productImage1 from './img/IMG_9067.PNG'
+import productImage1 from './img/IMG_9067.png'
 import productImage2 from './img/IMG_9074.PNG'
 import productImage3 from './img/IMG_9077.PNG'
 import productImage4 from './img/IMG_9080.PNG'
